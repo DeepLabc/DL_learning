@@ -1,0 +1,23 @@
+<?xml version="1.0" ?><annotation>
+	<folder>data</folder>
+	<filename>/home/lyg/workspace/labelATT/img/zebra/zebra161.jpg</filename>
+	<size>
+		<width>1024</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zebra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>46</ymin>
+			<xmax>863</xmax>
+			<ymax>662</ymax>
+		</bndbox>
+		<attr>0100100001</attr>
+	</object>
+</annotation>
