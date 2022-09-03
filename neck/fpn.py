@@ -112,8 +112,11 @@ def FPN101():
 
 def test():
     net = FPN101()
-    fms = net(Variable(torch.randn(1,3,600,900)))
+    fms = net(Variable(torch.randn(1,4,600,900)))
     for fm in fms:
         print(fm.size())
+    print("yyyyyyy")
+    print("hhhhhhhh")
+    print("yiguanliao")
 
 test()
