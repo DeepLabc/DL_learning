@@ -128,3 +128,5 @@ if __name__ == "__main__":
     for b, (img, label) in enumerate(trainloader):
         print(img.shape)
         print(label.shape)
+    
+    print('liaoyiguan')
