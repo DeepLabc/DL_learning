@@ -129,4 +129,4 @@ if __name__ == "__main__":
         print(img.shape)
         print(label.shape)
     
-    print('liaoyiguan')
+    print('my test')
